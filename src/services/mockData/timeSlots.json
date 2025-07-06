@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2024-01-20",
+    "time": "09:00",
+    "available": true,
+    "serviceType": "consultation"
+  },
+  {
+    "date": "2024-01-20",
+    "time": "10:00",
+    "available": false,
+    "serviceType": "consultation"
+  },
+  {
+    "date": "2024-01-20",
+    "time": "11:00",
+    "available": true,
+    "serviceType": "consultation"
+  },
+  {
+    "date": "2024-01-20",
+    "time": "12:00",
+    "available": true,
+    "serviceType": "consultation"
+  },
+  {
+    "date": "2024-01-20",
+    "time": "14:00",
+    "available": true,
+    "serviceType": "consultation"
+  },
+  {
+    "date": "2024-01-20",
+    "time": "15:00",
+    "available": true,
+    "serviceType": "consultation"
+  },
+  {
+    "date": "2024-01-20",
+    "time": "16:00",
+    "available": true,
+    "serviceType": "consultation"
+  },
+  {
+    "date": "2024-01-21",
+    "time": "09:00",
+    "available": true,
+    "serviceType": "consultation"
+  },
+  {
+    "date": "2024-01-21",
+    "time": "10:00",
+    "available": true,
+    "serviceType": "consultation"
+  },
+  {
+    "date": "2024-01-21",
+    "time": "11:00",
+    "available": true,
+    "serviceType": "consultation"
+  },
+  {
+    "date": "2024-01-21",
+    "time": "12:00",
+    "available": true,
+    "serviceType": "consultation"
+  },
+  {
+    "date": "2024-01-21",
+    "time": "14:00",
+    "available": true,
+    "serviceType": "consultation"
+  },
+  {
+    "date": "2024-01-21",
+    "time": "15:00",
+    "available": true,
+    "serviceType": "consultation"
+  },
+  {
+    "date": "2024-01-21",
+    "time": "16:00",
+    "available": true,
+    "serviceType": "consultation"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 1,
+    "serviceId": 1,
+    "date": "2024-01-20",
+    "time": "10:00",
+    "clientName": "John Smith",
+    "clientEmail": "john.smith@email.com",
+    "clientPhone": "+44 7123 456789",
+    "message": "Looking forward to discussing my goals",
+    "status": "confirmed"
+  }
+]

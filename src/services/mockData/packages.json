@@ -1,0 +1,67 @@
+[
+  {
+    "Id": 1,
+    "name": "Mindset Transformation",
+    "sessions": 8,
+    "price": 640,
+    "features": [
+      "8 x 50-minute individual sessions",
+      "Personalized mindset assessment",
+      "Custom goal-setting framework",
+      "Weekly progress tracking",
+      "Resource library access",
+      "Email support between sessions"
+    ],
+    "outcomes": [
+      "Overcome limiting beliefs",
+      "Develop growth mindset",
+      "Increase self-confidence",
+      "Better decision-making skills",
+      "Enhanced emotional resilience"
+    ]
+  },
+  {
+    "Id": 2,
+    "name": "Success Mindset Mastery",
+    "sessions": 12,
+    "price": 1080,
+    "features": [
+      "12 x 50-minute coaching sessions",
+      "Success psychology assessment",
+      "Performance optimization plan",
+      "Accountability partnerships",
+      "Success tracking dashboard",
+      "Monthly progress reviews",
+      "Priority email support"
+    ],
+    "outcomes": [
+      "Master success psychology",
+      "Achieve performance goals",
+      "Build winning habits",
+      "Develop leadership mindset",
+      "Create sustainable success patterns"
+    ]
+  },
+  {
+    "Id": 3,
+    "name": "Complete Life Transformation",
+    "sessions": 16,
+    "price": 1440,
+    "features": [
+      "16 x 50-minute comprehensive sessions",
+      "Life assessment & planning",
+      "Multi-domain goal setting",
+      "Quarterly intensive reviews",
+      "Access to all resources",
+      "24/7 support availability",
+      "Bonus follow-up sessions"
+    ],
+    "outcomes": [
+      "Transform all life areas",
+      "Achieve work-life balance",
+      "Master stress management",
+      "Build lasting relationships",
+      "Create meaningful life purpose"
+    ]
+  }
+]

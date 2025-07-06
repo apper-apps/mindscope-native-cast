@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 1,
+    "clientName": "Sarah M.",
+    "content": "Dr. Rahman helped me overcome years of self-doubt and limiting beliefs. The mindset transformation package was exactly what I needed. I now feel confident in pursuing my goals and have a clear vision for my future.",
+    "rating": 5,
+    "serviceType": "Mindset Coaching"
+  },
+  {
+    "Id": 2,
+    "clientName": "James L.",
+    "content": "The success psychology sessions were life-changing. I've implemented the strategies Dr. Rahman taught me and have seen remarkable improvements in my career and personal relationships. Highly recommended!",
+    "rating": 5,
+    "serviceType": "Success Psychology"
+  },
+  {
+    "Id": 3,
+    "clientName": "Emily R.",
+    "content": "I was struggling with anxiety and stress management. Dr. Rahman's approach is both professional and compassionate. The techniques I learned have helped me manage my anxiety and feel more in control of my life.",
+    "rating": 5,
+    "serviceType": "Stress & Anxiety Management"
+  },
+  {
+    "Id": 4,
+    "clientName": "Michael T.",
+    "content": "The relationship counselling sessions helped my partner and I work through our communication issues. Dr. Rahman provided practical tools that we still use today. Our relationship is stronger than ever.",
+    "rating": 5,
+    "serviceType": "Relationship Counselling"
+  },
+  {
+    "Id": 5,
+    "clientName": "Lisa K.",
+    "content": "The complete life transformation package exceeded my expectations. Dr. Rahman's holistic approach helped me address multiple areas of my life simultaneously. I feel like a completely different person - more confident and purposeful.",
+    "rating": 5,
+    "serviceType": "Life Transformation"
+  },
+  {
+    "Id": 6,
+    "clientName": "David P.",
+    "content": "Even the free initial consultation was incredibly valuable. Dr. Rahman quickly identified key issues and provided immediate actionable advice. I knew right away that I wanted to work with him long-term.",
+    "rating": 5,
+    "serviceType": "Initial Consultation"
+  }
+]

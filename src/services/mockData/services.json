@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "name": "Free Initial Consultation",
+    "duration": 15,
+    "price": 0,
+    "description": "A complimentary 15-minute consultation to discuss your needs and explore how we can help you achieve your goals.",
+    "type": "consultation"
+  },
+  {
+    "Id": 2,
+    "name": "Individual Counselling Session",
+    "duration": 50,
+    "price": 80,
+    "description": "One-on-one therapeutic session focusing on your specific mental health concerns using evidence-based approaches.",
+    "type": "therapy"
+  },
+  {
+    "Id": 3,
+    "name": "Mindset Coaching Session",
+    "duration": 50,
+    "price": 95,
+    "description": "Specialized coaching to help you develop a growth mindset and overcome limiting beliefs that hold you back.",
+    "type": "coaching"
+  },
+  {
+    "Id": 4,
+    "name": "Success Psychology Session",
+    "duration": 50,
+    "price": 95,
+    "description": "Focus on developing the psychological foundations for success in your personal and professional life.",
+    "type": "coaching"
+  },
+  {
+    "Id": 5,
+    "name": "Stress & Anxiety Management",
+    "duration": 50,
+    "price": 85,
+    "description": "Learn practical techniques to manage stress and anxiety, building resilience for daily challenges.",
+    "type": "therapy"
+  },
+  {
+    "Id": 6,
+    "name": "Relationship Counselling",
+    "duration": 50,
+    "price": 90,
+    "description": "Work through relationship challenges and build stronger, healthier connections with others.",
+    "type": "therapy"
+  }
+]
