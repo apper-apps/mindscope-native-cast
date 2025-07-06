@@ -10,11 +10,11 @@ export const getPackages = async () => {
 
 export const getPackageById = async (id) => {
   await delay(200)
-  const package = packagesData.find(p => p.Id === parseInt(id))
-  if (!package) {
+  const foundPackage = packagesData.find(p => p.Id === parseInt(id))
+  if (!foundPackage) {
     throw new Error('Package not found')
   }
-  return { ...package }
+  return { ...foundPackage }
 }
 
 export const createPackage = async (packageData) => {
